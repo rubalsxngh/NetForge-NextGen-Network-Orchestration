@@ -19,3 +19,7 @@ This project aims to automate and optimize network infrastructure, ensuring robu
 **Security Services**
 - **Access Control Lists (ACLs):** Granular control over network traffic to enhance security.
 - **Port Security:** Safeguarding against unauthorized access by controlling device connectivity.
+
+**Output**
+![Network Topology image](/campus_network.png)
+
