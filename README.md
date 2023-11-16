@@ -1,4 +1,4 @@
-# BreadcrumbsNetForge-NextGen-Network-Orchestration
+# NetForge-NextGen-Network-Orchestration
 This project aims to automate and optimize network infrastructure, ensuring robust LAN connectivity, implementing essential IP services, and fortifying security measures.
 
 # Key Features
